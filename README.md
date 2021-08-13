@@ -1,4 +1,3 @@
-# 💀 TRICKERS 💀
 
 ```
 ➠pkg update && pkg upgrade 
